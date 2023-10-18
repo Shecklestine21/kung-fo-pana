@@ -1,0 +1,8 @@
+html {
+  background: url("img/kungfupandabackground.jpg") no-repeat center fixed;
+}
+
+img {
+  padding: auto;
+  margin-left: 300px;
+}
